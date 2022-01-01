@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/riya-tanwar-5004ab1a6](https://www.linkedin.com/in/riya-tanwar-5004ab1a6)
 
-- 🏃🏻‍♂️ Extra Curricular **Published Author🖋, Dancer💃🏻, Singer🎤 and Guitarist🎸**
+- 🏃🏻‍♂️ Extra Curricular: **Published Author🖋, Dancer💃🏻, Singer🎤 and Guitarist🎸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
