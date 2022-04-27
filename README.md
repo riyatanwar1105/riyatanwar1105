@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RIYA TANWAR</h1>
-<h3 align="center">A pre-final year student pursuing B.Tech in Information Technology from IGDTUW (CGPA: 8.34/10).</h3>
+<h3 align="center">A pre-final year student pursuing B.Tech in Information Technology from IGDTUW (CGPA: 8.46/10).</h3>
 <h4> I am an incoming Summer Analyst Intern'22 at Barclays. I was also a part of Microsoft Engage Mentorship Program 2021 in which I have developed a video conferencing web application under the guidance of Software Engineers at Microsoft. I was also a Project Coordinator in Google Developer Student Clubs in which I have mentored around 230+ women in Data Structures and Algorithms to empower women in tech and bridge the gender gap. Apart from that I have published my poetries in paperback anthologies name "Remember the Roses" and "Elixir of Words" which got launched on Amazon in 2021.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
